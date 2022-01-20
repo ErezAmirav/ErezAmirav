@@ -27,7 +27,7 @@
 
 
   
-🌱 Currently learning
+🌱 Currently Learning:
 - 
   Full Stack Development 
   
