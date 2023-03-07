@@ -1,9 +1,10 @@
 
 ## 💻 About me
+
 ▫️ Computer Science graduate (B.Sc.) <br/>
 ▫️ Looking for a Fullstack / Frontend developer position <br/>
-▫️ Ambitious, team player, love to challenge myself
-
+▫️ Ambitious, team player, love to challenge myself<br/>
+▫️ <a href="https://erezamirav.github.io/portfolio/">Portfolio Website</a>
 
 ### 🍀 Currently developing in:
 
