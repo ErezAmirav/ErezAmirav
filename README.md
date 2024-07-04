@@ -4,7 +4,7 @@
 ▫️ Computer Science graduate (B.Sc.) <br/>
 ▫️ Looking for a Fullstack / Frontend developer position <br/>
 ▫️ Ambitious, team player, love to challenge myself<br/>
-▫️ <a href="https://erezamirav.github.io/portfolio/">Portfolio Website</a>
+▫️ <a href="https://portfolio-phi-umber.vercel.app/">Portfolio Website</a>
 
 <!--
 ![🍀 Currently developing in:](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%8D%80+Currently+developing+in%3A&showBorder=false&lineCount=2&theme=bearded&hideBg=true&bg=%23161d29&badge=%231c2433&border=%231c2433&titleColor=%2322e6c5&line1=react%2Creact%2C58a6ff%3Bjavascript%2Cjavascript%2C58a6ff%3Bnext.js%2Cnext%2C58a6ff%3B&line2=typescript%2CTypescript%2C58a6ff%3Bcss3%2Ccss3%2C58a6ff%3Bhtml5%2Chtml5%2C58a6ff%3B)
@@ -17,8 +17,8 @@
 -->
 ### 🍀 Currently developing in:
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 
 ### 🌿 Familiar with:
