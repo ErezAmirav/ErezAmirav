@@ -1,4 +1,8 @@
-
+![77 copy](https://github.com/user-attachments/assets/2d55c494-6fb3-49d2-9663-aa1a2c26ce93)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Erez!;Welcome+To+My+GitHub!&font=Fira%20Code&color=%b4befe&center=true&width=280&height=50">
+<p/>
+    
 ## 💻 About me
 
 ▫️ Computer Science graduate (B.Sc.) <br/>
@@ -32,6 +36,10 @@
 
 ### 📫 Contact me:
 <a href="https://www.linkedin.com/in/erez-amirav/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"  /></a>  <a href="mailto:erezamirav@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
+
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erezamirav&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="erezamirav" /></p> --!>
+
 
 <!-- https://ileriayo.github.io/markdown-badges/#shortcuts -->
 
