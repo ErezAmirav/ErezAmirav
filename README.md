@@ -1,4 +1,4 @@
-![77](https://github.com/user-attachments/assets/2d9d52db-42de-41b7-b7c3-340849efe556)
+![777](https://github.com/user-attachments/assets/25cb6aa9-ce34-480a-80ad-d7eda13fd2d8)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Erez!;Welcome+To+My+GitHub!&font=Fira%20Code&color=%b4befe&center=true&width=280&height=50">
 <p/>
