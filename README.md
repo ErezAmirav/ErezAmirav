@@ -1,8 +1,37 @@
-![777](https://github.com/user-attachments/assets/25cb6aa9-ce34-480a-80ad-d7eda13fd2d8)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Erez!;Welcome+To+My+GitHub!&font=Fira%20Code&color=%b4befe&center=true&width=280&height=50">
 <p/>
-    
+
+
+![777](https://github.com/user-attachments/assets/25cb6aa9-ce34-480a-80ad-d7eda13fd2d8)
+
+
+<img align="left" src="https://images.weserv.nl/?url=github.com/user-attachments/assets/f831bb59-1741-487b-9272-87c4c943df92&h=320&w=320&fit=cover&a=center&mask=circle&maxage=7d">
+
+<p align="left">
+<a href="https://portfolio-phi-umber.vercel.app/">Portfolio Website</a>
+</p>
+
+```csharp
+erezamirav@github
+-------------------------
+OS: Fedora, Win11
+Frameworks: Next, React, TailwindCSS, FabricJS, FetchAPI
+Languages: TypeScript, JavaScript, HTML, CSS, Java
+Tools: Git, DevTools
+Education: Computer Science (B.Sc.)
+
+Email: erezamirav@gmail.com
+LinkedIn: ErezAmirav
+
+```
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#171724" src="https://via.placeholder.com/15/1a1a27/171724?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/d7b2bf/55586d?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/a79bb5/a6b5d3?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/4f4f63/707790?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/79768e/B4B2DCff?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/DE8E9Fff/B4B2DCff?text=+" width="25" height="20" />
+</p>
+
+<!--
 ## 💻 About me
 
 ▫️ Computer Science graduate (B.Sc.) <br/>
@@ -19,6 +48,7 @@
 
 <a href="https://www.linkedin.com/in/erez-amirav/" target="blank" ><img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%93%AB+Contact+me%3A&showBorder=false&lineCount=1&theme=bearded&hideBg=true&bg=%23161d29&badge=%231c2433&border=%231c2433&titleColor=%2322e6c5&line1=linkedin%2Clinkedin%2C58a6ff%3B" alt="📫 Contact me:" /></a>
 -->
+<!--
 ### 🍀 Currently developing in:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
