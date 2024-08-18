@@ -1,11 +1,9 @@
+
+
+<img src="https://github.com/user-attachments/assets/25cb6aa9-ce34-480a-80ad-d7eda13fd2d8">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Erez!;Welcome+To+My+GitHub!&font=Fira%20Code&color=%b4befe&center=true&width=280&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Erez!;Welcome+To+My+GitHub!&font=JetBrains%20Mono&color=%b4befe&center=true&width=280&height=50">
 <p/>
-
-
-![777](https://github.com/user-attachments/assets/25cb6aa9-ce34-480a-80ad-d7eda13fd2d8)
-
-
 <img align="left" src="https://images.weserv.nl/?url=github.com/user-attachments/assets/f831bb59-1741-487b-9272-87c4c943df92&h=320&w=320&fit=cover&a=center&mask=circle&maxage=7d">
 
 <p align="left">
