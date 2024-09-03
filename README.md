@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/25cb6aa9-ce34-480a-80ad-d7eda13fd2d8">
+<!-- <img src="https://github.com/user-attachments/assets/25cb6aa9-ce34-480a-80ad-d7eda13fd2d8"> -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Erez!;Welcome+To+My+GitHub!&font=JetBrains%20Mono&color=%b4befe&center=true&width=280&height=30">
 <p/>
