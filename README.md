@@ -2,8 +2,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Erez!;Welcome+To+My+GitHub!&font=JetBrains%20Mono&color=%b4befe&center=true&width=280&height=30">
 <p/>
+  <!--
 <img align="left" src="https://images.weserv.nl/?url=github.com/user-attachments/assets/f831bb59-1741-487b-9272-87c4c943df92&h=320&w=320&fit=cover&a=center&mask=circle&maxage=7d">
-
+-->
 <p align="left">
 <a href="https://portfolio-phi-umber.vercel.app/">Portfolio Website</a>
 </p>
@@ -21,11 +22,12 @@ Email: erezamirav@gmail.com
 LinkedIn: ErezAmirav
 
 ```
-
+<!--
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#171724" src="https://via.placeholder.com/15/1a1a27/171724?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/d7b2bf/55586d?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/a79bb5/a6b5d3?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/4f4f63/707790?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/79768e/B4B2DCff?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/DE8E9Fff/B4B2DCff?text=+" width="25" height="20" />
 </p>
+-->
 
 <!--
 ## 💻 About me
